@@ -12,6 +12,4 @@ I developed an interactive online calculator that provides a seamless user exper
 
 This project helped me improve my problem-solving skills and deepen my understanding of JavaScript event handling and DOM manipulation.
 
-💻 Check it out here: [Add Project Link]
-
 Excited to work on more innovative web applications! 🚀
